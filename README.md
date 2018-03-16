@@ -1,4 +1,4 @@
-# dotnet3-blue-team
+# dotnet3-white-team
 .NET Bootcamp 3 - Blue Team
 
 ## Team project to create list of orders and customers in Typescript using node. The list of orders should include:
